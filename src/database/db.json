@@ -1,0 +1,22 @@
+[
+    {
+        "id": "1",
+        "fullName": "John Doe",
+        "date": "2023-07-10",
+        "email": "john.doe@example.com",
+        "area": "HR",
+        "category": "Employee",
+        "company": "ACME Corporation",
+        "satisfactionLevel": 85
+    },
+    {
+        "id": "2",
+        "fullName": "Jane Smith",
+        "date": "2023-07-10",
+        "email": "jane.smith@example.com",
+        "area": "IT",
+        "category": "Manager",
+        "company": "XYZ Inc.",
+        "satisfactionLevel": 92
+    }
+]
